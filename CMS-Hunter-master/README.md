@@ -57,10 +57,9 @@ Content Management System Vulnerability Hunter
 
 ### 转载
 
-转载请注明来自 https://github.com/SecWiki/CMS-Hunter
+转载请注明来自 https://github.com/yangronghaha/CMS-Vul
 
 ### 补充完善
 
-欢迎大家补充完善　[Anka9080@foxmail.com](Anka9080@foxmail.com)
+欢迎大家补充完善
 
-&copy;<a href="https://www.sec-wiki.com" target="_blank">SecWiki</a> 2017
